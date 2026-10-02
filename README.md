@@ -52,16 +52,14 @@ Me chamo João Gabriel da Costa Bordinhon, tenho 20 anos e sou natural de São J
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="450"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joao-bordinhon1405&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joao-bordinhon1405&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=450" 
   />
 
   <img 
     align="left" 
     alt="Tecnologias" 
     height="200"
-    width="300"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-bordinhon1405&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-bordinhon1405&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&card_width=450" 
   />
 </p>
